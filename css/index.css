@@ -1,0 +1,94 @@
+#sidebar-wrapper {
+    background: #feb74e;
+}
+.sidebar-nav>.sidebar-brand a {
+    color: black;
+}
+.sidebar-nav li.sidebar-nav-item a {
+    color: black;
+}
+
+.masthead {
+    color: white;
+}
+.masthead-button {
+    background-color: #feb74e;
+    border-color: #feb74e;
+    color: black;
+}
+.masthead-button:hover, .masthead-button:focus, .masthead-button:active {
+    background-color: #f17d32;
+    border-color: #f17d32;
+    color: black;
+}
+.masthead-button:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem black;
+}
+
+.portfolio-item:hover .caption {
+    background-color: rgba(241, 125, 50, 0.6);
+}
+
+section.contact {
+    text-align: center;
+}
+section.contact h2 {
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+section.contact h2 i {
+    color: #dd4b39;
+}
+section.contact ul.list-social {
+    margin-bottom: 0;
+}
+section.contact ul.list-social li a {
+    display: block;
+    height: 80px;
+    width: 80px;
+    line-height: 80px;
+    font-size: 40px;
+    border-radius: 100%;
+    color: white;
+}
+section.contact ul.list-social li.social-twitter a {
+    background-color: #1da1f2;
+}
+section.contact ul.list-social li.social-twitter a:hover {
+    background-color: #0d95e8;
+}
+section.contact ul.list-social li.social-facebook a {
+    background-color: #3b5998;
+}
+section.contact ul.list-social li.social-facebook a:hover {
+    background-color: #344e86;
+}
+section.contact ul.list-social li.social-google-plus a {
+    background-color: #dd4b39;
+}
+section.contact ul.list-social li.social-google-plus a:hover {
+    background-color: #d73925;
+}
+section.contact .fa {
+    margin-top: 18px;
+}
+
+footer {
+    background-color: #222222;
+    color: rgba(255, 255, 255, 0.3);
+    text-align: center;
+    padding: 1.5rem 15px;
+}
+footer .text {
+    color: #656565;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+footer a {
+    color: #656565;
+}

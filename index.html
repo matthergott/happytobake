@@ -1,18 +1,289 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="HappyToBake">
-    <meta name="author" content="Hergott">
-    <title>HappyToBake</title>
-  </head>
 
-  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
-    <div>
-	  <p>Welcome to HappyToBake!</p>
-	  <p>This website is under construction, please visit my Instagram page: <a href="https://www.instagram.com/happytobake/">@happytobake</a><p>
-	</div>
-  </body>
-  
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="@HappyToBake Small Business Website">
+  <meta name="author" content="Matt Hergott">
+
+  <title>@HappyToBake</title>
+
+  <!-- Bootstrap Core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom Fonts -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link href="css/stylish-portfolio.min.css" rel="stylesheet">
+  <link href="css/index.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/modal.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <a class="menu-toggle rounded" href="#">
+    <i class="fas fa-bars"></i>
+  </a>
+  <nav id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+      <li class="sidebar-brand">
+        <a class="js-scroll-trigger" href="#page-top">Happy To Bake</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#page-top">Home</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#about">About Me</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#portfolio">My <Creations></Creations></a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#contact">Contact</a>
+      </li>
+    </ul>
+  </nav>
+
+  <!-- Header -->
+  <header class="masthead d-flex">
+    <div class="container text-center my-auto">
+      <h1 class="mb-1">@HappyToBake</h1>
+      <h3 class="mb-5">
+        <em>Your emporium for delicious homemade baked goods!</em>
+      </h3>
+      <a class="btn masthead-button btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+    </div>
+    <div class="overlay"></div>
+  </header>
+
+  <!-- About Me -->
+  <section class="content-section bg-light" id="about">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h2>About Me - Eloise Hergott</h2>
+          <p class="lead mb-5">
+            Hi there! My name is El and I am the banker turned baker behind the creation of @HappyToBake. After 25 years at Scotiabank, I decided to change career paths and follow my true passion. I have since worked as a chef for a year, got my food handlers certificate, and earned a certificate in culinary arts from George Brown College. Now I am excited to share my expertise and baked goods with you!
+          </p>
+          <a class="btn btn-dark btn-xl js-scroll-trigger" href="#portfolio">What I Offer</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Overview -->
+
+  <!-- My Creations -->
+  <section class="content-section" id="portfolio">
+    <div class="container">
+      <div class="content-section-heading text-center">
+        <h2 class="mb-5">My Creations</h2>
+      </div>
+      <div class="row no-gutters">
+        <div class="col-lg-6">
+          <a class="portfolio-item" href="javascript:void(0)" id="platter-modal-link">
+            <span class="caption">
+              <span class="caption-content">
+                <h2>Platters</h2>
+                <p class="mb-0">A yummy variety of sweets perfect for any occasion</p>
+              </span>
+            </span>
+            <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-lg-6">
+          <a class="portfolio-item" href="javascript:void(0)" id="cookies-modal-link">
+            <span class="caption">
+              <span class="caption-content">
+                <h2>Cookies</h2>
+                <p class="mb-0">Simple and delicious</p>
+              </span>
+            </span>
+            <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-lg-6">
+          <a class="portfolio-item" href="javascript:void(0)" id="muffins-modal-link">
+            <span class="caption">
+              <span class="caption-content">
+                <h2>LOAVES & MUFFINS</h2>
+                <p class="mb-0">Irresistably moist</p>
+              </span>
+            </span>
+            <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-lg-6">
+          <a class="portfolio-item" href="javascript:void(0)" id="other-treats-modal-link">
+            <span class="caption">
+              <span class="caption-content">
+                <h2>OTHER TREATS</h2>
+                <p class="mb-0">Platters always include a fun recipe in addition to the usuals</p>
+              </span>
+            </span>
+            <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+
+  <!-- Contact -->
+  <section id="contact" class="content-section contact bg-light">
+    <div class="container">
+      <div class="content-section-heading text-center">
+        <h2>Contact Me</h2>
+      </div>
+      <p>If you have any questions about my baking, or if you're ready to order a HappyToBake platter for your next event, feel free to reach out by phone, email, or direct message me on Instagram!</p>
+      <h6>Phone Number: (416) 316-4311</h6>
+      <h6 style="margin-bottom: 25px">Email: eloisehergott@sympatico.ca</h6>
+      <ul class="list-inline list-social m-left-0-px">
+        <li>
+          <a class="bg-red" target="_blank" href="https://www.instagram.com/happytobake/">
+            <i class="fa icon-social-instagram"></i>
+          </a>
+        </li>
+        <li>
+          <a class="bg-blue" href="mailto:eloisehergott@sympatico.ca?Subject=Happy%20To%20Bake%20Inquiry" target="_top">
+            <i class="fa icon-envelope"></i>
+          </a>
+        </li>
+        <li class="phone-link">
+          <a class="bg-green" href="tel:4163164311">
+            <i class="fa icon-phone"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="row">
+      <div class="col-md-4"></div>
+      <div class="col-md-4">
+        <span class="text">Website Creation: Matt Hergott</span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4"></div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <li class="list-inline-item">
+            <a href="https://www.instagram.com/matt_hergott/" target="_blank">
+              <i class="fa icon-social-instagram"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="https://www.linkedin.com/in/matthew-hergott" target="_blank">
+              <i class="fa icon-social-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll to Top Button-->
+  <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+  </a>
+
+  <!-- Modals -->
+  <div class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span class="modal-close align-right">&times;</span>
+      </div>
+      <div class="modal-body">
+        <h3 style="text-align: center">PLATTERS</h3>
+        <div class="row">
+          <div class="col-5">
+            <img class="img-fluid" src="img\platter.jpg" alt="">
+          </div>
+          <div class="col vertically-align-contents">
+            <p>My bread and butter, so to speak. These platters are great for parties, meetings, funerals, and much more. These platters come in three sizes, small, medium, and large. I will deliver the platter right to your door on the day of any occasion!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span class="modal-close align-right">&times;</span>
+      </div>
+      <div class="modal-body">
+        <h3 style="text-align: center">COOKIES</h3>
+        <div class="row">
+          <div class="col-5">
+            <img class="img-fluid" src="img\cookies.jpg" alt="">
+          </div>
+          <div class="col vertically-align-contents">
+            <p>My specialty. A secret recipe with a not-so-secret reputation for being YUMMY, my oatmeal chocolate chip cookies are always a hit. My cookies are an integral part of my platters, but if you want just cookies for your work party, I will make it happen!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span class="modal-close align-right">&times;</span>
+      </div>
+      <div class="modal-body">
+        <h3 style="text-align: center">LOAVES & MUFFINS</h3>
+        <div class="row">
+          <div class="col-5">
+            <img class="img-fluid" src="img\muffins.jpg" alt="">
+          </div>
+          <div class="col vertically-align-contents">
+            <p>Pumpkin bread and banana bread are my two personal favourites, two delightful recipes that I can bake in muffin form or loaf form, my platters may include either. Life is full of surprises!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span class="modal-close align-right">&times;</span>
+      </div>
+      <div class="modal-body">
+        <h3 style="text-align: center">OTHER TREATS</h3>
+        <div class="row">
+          <div class="col-5">
+            <img class="img-fluid" src="img\skor-shortbread.jpg" alt="">
+          </div>
+          <div class="col vertically-align-contents">
+            <p>I like to fill out my platters with something a little different every time. As a passionate baker, I love trying new things! Shortbread, scones, biscuits, and much more, I am always trying to improve my skills with fun new recipes!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts -->
+  <script src="js/stylish-portfolio.min.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+
 </html>
