@@ -10,6 +10,8 @@
 
 .masthead {
     color: white;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 }
 .masthead-button {
     background-color: #feb74e;
@@ -24,6 +26,18 @@
 .masthead-button:focus {
     outline: 0;
     box-shadow: 0 0 0 0.1rem black;
+}
+
+header .logo {
+    width: 40%;
+    /*border-radius: 50%;*/
+}
+
+header h3 {
+    font-family: 'Clicker Script', cursive;
+    margin-top: 2rem;
+    font-size: 3rem;
+    font-weight: 100;
 }
 
 .portfolio-item:hover .caption {
