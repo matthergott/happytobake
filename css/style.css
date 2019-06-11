@@ -24,6 +24,10 @@
 .bg-blue:hover {
     background-color: #0000ff;
 }
+
+.bg-light-blue {
+    background-color: #25aae154;
+}
 .bg-green{
     background-color: #008A00;
 }
