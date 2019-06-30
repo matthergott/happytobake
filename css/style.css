@@ -34,9 +34,16 @@
 .bg-green:hover {
     background-color: #006E00;
 }
-
 .bg-orange {
     background-color: #feb74e;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-black:hover {
+    background-color: #393939;
 }
 
 @media (min-width: 992px) {
