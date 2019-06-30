@@ -45,6 +45,23 @@ header h3 {
     background-color: rgba(241, 125, 50, 0.6);
 }
 
+@media (max-width: 992px) {
+    .key-info {
+        margin-bottom: 3em;
+    }
+}
+
+.key-info-icon {
+    width: 50px;
+    height: 50px;
+    font-size: 50px;
+}
+
+.testimonial-text {
+    text-align: center;
+    width: 100%;
+}
+
 section.contact {
     text-align: center;
 }
