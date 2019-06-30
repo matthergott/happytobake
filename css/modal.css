@@ -51,7 +51,6 @@
     float: left;
     width: 40%;
 }
-
 .modal-body{
     float: right;
     width: 60%;
@@ -71,7 +70,21 @@
     font-weight: 400;
 }
 
-/* The Close Button */
+@media (max-width: 700px) {
+    .modal-body {
+        float: left;
+        width: 100%;
+    }
+
+    .modal-photo {
+        display: none;
+    }
+
+    .modal-body-text {
+        margin-top: 1rem;
+    }
+}
+
 .modal-close {
     color: #aaa;
     float: right;
