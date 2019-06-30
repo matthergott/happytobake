@@ -1,19 +1,51 @@
 const modals = document.getElementsByClassName('modal');
 
+const hideElement = (elementId) => {
+    document.getElementById(elementId).style.display = "none";
+};
+const showElement = (elementId) => {
+    document.getElementById(elementId).style.display = "initial";
+};
+
+const hideMenuButtonAndScrollToTopButton = () => {
+    hideElement("menu-button");
+    hideElement("scroll-to-top-button");
+};
+const showMenuButtonAndScrollToTopButton = () => {
+    showElement("menu-button");
+    showElement("scroll-to-top-button");
+};
+
 const platterA = document.getElementById("platter-modal-link");
-platterA.onclick = () => modals[0].style.display = "flex";
+platterA.onclick = () => {
+    modals[0].style.display = "flex";
+    hideMenuButtonAndScrollToTopButton();
+};
+
 const cookiesA = document.getElementById("cookies-modal-link");
-cookiesA.onclick = () => modals[1].style.display = "flex";
+cookiesA.onclick = () => {
+    modals[1].style.display = "flex";
+    hideMenuButtonAndScrollToTopButton();
+};
+
 const muffinsA = document.getElementById("muffins-modal-link");
-muffinsA.onclick = () => modals[2].style.display = "flex";
+muffinsA.onclick = () => {
+    modals[2].style.display = "flex";
+    hideMenuButtonAndScrollToTopButton();
+};
+
 const otherTreatsA = document.getElementById("other-treats-modal-link");
-otherTreatsA.onclick = () => modals[3].style.display = "flex";
+otherTreatsA.onclick = () => {
+    modals[3].style.display = "flex";
+    hideMenuButtonAndScrollToTopButton();
+};
 
 const closeButtons = document.getElementsByClassName("modal-close");
 
 for (let i = 0; i < closeButtons.length; i++) {
     closeButtons[i].onclick = () => {
         modals[i].style.display = "none";
+        showMenuButtonAndScrollToTopButton();
     }
 }
 
@@ -21,6 +53,7 @@ window.onclick = (event) => {
     for (let i = 0; i < modals.length; i++) {
         if (modals[i] === event.target) {
             modals[i].style.display = "none";
+            showMenuButtonAndScrollToTopButton();
             return;
         }
     }
