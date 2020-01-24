@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="Add new Cookies page with some new images">
-      <change afterPath="$PROJECT_DIR$/css/collage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0742.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0796.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0890.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1215.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_2406.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/cookies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_1654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_1962.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2297.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2405.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2467.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2487.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/cakes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/collage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/collage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cookies.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="138" column="19" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+            <state relative-caret-position="450">
+              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
               <folding>
                 <element signature="e#10609#10616#1" expanded="true" />
                 <element signature="e#12111#12118#1" expanded="true" />
@@ -45,8 +47,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/cookies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
+            <state relative-caret-position="484">
+              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/cakes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="84" column="43" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -54,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/collage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            <state relative-caret-position="323">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -86,11 +97,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -140,10 +146,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/nav.css" />
-        <option value="$PROJECT_DIR$/css/collage.css" />
-        <option value="$PROJECT_DIR$/pages/cookies.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/cookies.html" />
+        <option value="$PROJECT_DIR$/css/collage.css" />
+        <option value="$PROJECT_DIR$/pages/cakes.html" />
       </list>
     </option>
   </component>
@@ -180,6 +187,12 @@
               <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
               <item name="happytobake" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="cakes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="happytobake" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="cookies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,7 +210,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -209,6 +222,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\happytobake\pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\happytobake.github.io\img\icon" />
     </key>
@@ -250,7 +266,7 @@
       <workItem from="1559242748674" duration="352000" />
       <workItem from="1559243117624" duration="64000" />
       <workItem from="1560185983018" duration="3284000" />
-      <workItem from="1579888007892" duration="5476000" />
+      <workItem from="1579888007892" duration="7670000" />
     </task>
     <task id="LOCAL-00001" summary="Update website icon and title">
       <created>1558815721021</created>
@@ -308,11 +324,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558824539928</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add new Cookies page with some new images">
+      <created>1579893513058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579893513058</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix screen responsiveness thresholds">
+      <created>1579894389256</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579894389256</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50638000" />
+    <option name="totallyTimeSpent" value="52832000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,13 +355,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16385669" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16385669" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.22860238" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22860238" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -342,7 +373,7 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -361,7 +392,8 @@
     <MESSAGE value="Fix navigation defect" />
     <MESSAGE value="Update modal text" />
     <MESSAGE value="Add new Cookies page with some new images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new Cookies page with some new images" />
+    <MESSAGE value="Fix screen responsiveness thresholds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix screen responsiveness thresholds" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -476,24 +508,17 @@
     <entry file="file://$PROJECT_DIR$/img/cookies/IMG_0796.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/collage.css">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/cookies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="493">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="138" column="19" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+        <state relative-caret-position="450">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
           <folding>
             <element signature="e#10609#10616#1" expanded="true" />
             <element signature="e#12111#12118#1" expanded="true" />
@@ -502,10 +527,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/pages/cookies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        <state relative-caret-position="484">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cakes/IMG_2075.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cakes/IMG_2297.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/collage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/cakes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="84" column="43" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
         </state>
       </provider>
     </entry>

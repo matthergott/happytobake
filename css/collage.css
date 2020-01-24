@@ -17,13 +17,6 @@
     width: 100%;
 }
 
-@media screen and (max-width: 1700px) {
-    .img-column {
-        flex: 33.333%;
-        max-width: 33.333%;
-    }
-}
-
 @media screen and (max-width: 990px) {
     .img-column {
         flex: 50%;
