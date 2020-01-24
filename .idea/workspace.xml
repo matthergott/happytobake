@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="Update modal text">
+    <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="Add new Cookies page with some new images">
+      <change afterPath="$PROJECT_DIR$/css/collage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0796.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0890.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_2406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/cookies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,30 +31,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="272" column="10" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
+            <state relative-caret-position="433">
+              <caret line="138" column="19" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
               <folding>
-                <element signature="n#style#0;n#h6#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h6#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10609#10616#1" expanded="true" />
+                <element signature="e#12111#12118#1" expanded="true" />
+                <element signature="e#12816#12823#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/cookies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="756">
+              <caret line="122" selection-start-line="122" selection-end-line="122" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+        <entry file="file://$PROJECT_DIR$/css/collage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+            <state relative-caret-position="102">
+              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -53,31 +63,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-            </state>
+            <state relative-caret-position="-1284" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/modal.css">
+        <entry file="file://$PROJECT_DIR$/css/nav.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+            <state relative-caret-position="493">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -87,6 +117,10 @@
       <find>happyto</find>
       <find>modal-</find>
       <find>modal</find>
+      <find>sidebar-brand</find>
+      <find>scss</find>
+      <find>sub-item</find>
+      <find>img-row</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,11 +136,14 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/modal.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/nav.css" />
+        <option value="$PROJECT_DIR$/css/collage.css" />
+        <option value="$PROJECT_DIR$/pages/cookies.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -126,8 +163,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="happytobake.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happytobake.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="happytobake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="happytobake" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="happytobake" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="happytobake" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="cookies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="happytobake" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,8 +194,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -165,7 +226,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/happytobake.github.io/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="file:///$PROJECT_DIR$/index.html">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -189,6 +250,7 @@
       <workItem from="1559242748674" duration="352000" />
       <workItem from="1559243117624" duration="64000" />
       <workItem from="1560185983018" duration="3284000" />
+      <workItem from="1579888007892" duration="5476000" />
     </task>
     <task id="LOCAL-00001" summary="Update website icon and title">
       <created>1558815721021</created>
@@ -250,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45162000" />
+    <option name="totallyTimeSpent" value="50638000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,23 +325,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16385669" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16385669" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22860238" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.22860238" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -297,7 +360,8 @@
     <MESSAGE value="Add disclaimer section" />
     <MESSAGE value="Fix navigation defect" />
     <MESSAGE value="Update modal text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update modal text" />
+    <MESSAGE value="Add new Cookies page with some new images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new Cookies page with some new images" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -314,9 +378,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
@@ -373,27 +434,6 @@
     <entry file="file://$PROJECT_DIR$/img/icon/HappyToBake.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -401,21 +441,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1284" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cookies/IMG_0742.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cookies/IMG_0796.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/collage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/cookies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="272" column="10" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
+        <state relative-caret-position="433">
+          <caret line="138" column="19" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#h6#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h6#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10609#10616#1" expanded="true" />
+            <element signature="e#12111#12118#1" expanded="true" />
+            <element signature="e#12816#12823#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="493">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
         </state>
       </provider>
     </entry>

@@ -22,21 +22,15 @@ platterA.onclick = () => {
     hideMenuButtonAndScrollToTopButton();
 };
 
-const cookiesA = document.getElementById("cookies-modal-link");
-cookiesA.onclick = () => {
-    modals[1].style.display = "flex";
-    hideMenuButtonAndScrollToTopButton();
-};
-
 const muffinsA = document.getElementById("muffins-modal-link");
 muffinsA.onclick = () => {
-    modals[2].style.display = "flex";
+    modals[1].style.display = "flex";
     hideMenuButtonAndScrollToTopButton();
 };
 
 const otherTreatsA = document.getElementById("other-treats-modal-link");
 otherTreatsA.onclick = () => {
-    modals[3].style.display = "flex";
+    modals[2].style.display = "flex";
     hideMenuButtonAndScrollToTopButton();
 };
 

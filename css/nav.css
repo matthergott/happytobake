@@ -1,0 +1,18 @@
+#sidebar-wrapper {
+    background: #feb74e;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    color: black;
+}
+
+.sidebar-nav li.sidebar-nav-item a {
+    color: black;
+}
+
+.sidebar-nav li.sidebar-nav-sub-item a {
+    color: rgba(0, 0, 0, 0.68);
+    padding-left: 25px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
