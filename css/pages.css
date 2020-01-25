@@ -2,6 +2,7 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
     min-height: 0;
+    height: initial;
 }
 
 header .logo {
