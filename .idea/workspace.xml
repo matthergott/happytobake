@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_0723.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_0822.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_1177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_1300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_2274.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_2549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/bananabread.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/quiche.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breakfast/scones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_0704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_0823.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_1858.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2668.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2689.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2726.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0794.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0866.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0902.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0994.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1431.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1510.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1911.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_2159.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/71A69E47-052F-4E59-9EF3-069AA269DE27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_1543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_1549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2386.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2447.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2475.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2633.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/breakfast.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/platters.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cakes/IMG_2405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cookies.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cookies/IMG_2406.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/breakfast/IMG_2406.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/muffins.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/breakfast/muffins.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/platter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/platters/platter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skor-shortbread.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cakes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cookies.html" afterDir="false" />
     </list>
@@ -18,11 +65,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="299" column="12" selection-start-line="299" selection-start-column="12" selection-end-line="299" selection-end-column="12" />
+            <state relative-caret-position="-3468">
+              <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/platters.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -30,75 +86,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/cookies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="367">
+              <caret line="109" column="51" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/cakes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="255">
+              <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
               <folding>
                 <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/modal.css">
+        <entry file="file://$PROJECT_DIR$/pages/breakfast.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/collage.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/pages.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/nav.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3417">
-              <caret line="201" column="22" lean-forward="true" selection-start-line="201" selection-start-column="22" selection-end-line="201" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <state relative-caret-position="1717">
+              <caret line="101" column="56" selection-start-line="101" selection-start-column="56" selection-end-line="101" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -108,8 +118,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -127,7 +137,11 @@
       <find>img-row</find>
       <find>logo</find>
       <find>My name is El and I am the banker</find>
+      <find>showMenuButtonAndScrollToTopButton</find>
+      <find>tobake</find>
+      <find>stre</find>
       <find>modal-body-text</find>
+      <find>inquiry</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,17 +155,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/modal.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/nav.css" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/collage.css" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/pages.css" />
-        <option value="$PROJECT_DIR$/pages/cakes.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pages/breakfast.html" />
+        <option value="$PROJECT_DIR$/pages/platters.html" />
         <option value="$PROJECT_DIR$/pages/cookies.html" />
+        <option value="$PROJECT_DIR$/pages/cakes.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -189,13 +205,12 @@
               <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
               <item name="happytobake" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="cakes" type="462c0819:PsiDirectoryNode" />
+              <item name="breakfast" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
               <item name="happytobake" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="cookies" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
@@ -224,11 +239,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\happytobake\img\breakfast" />
+      <recent name="D:\GitHub\happytobake\img\cookies" />
+      <recent name="D:\GitHub\happytobake\img\platters" />
+      <recent name="D:\GitHub\happytobake.github.io\img\icon" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GitHub\happytobake\pages" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GitHub\happytobake.github.io\img\icon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,7 +287,7 @@
       <workItem from="1559243117624" duration="64000" />
       <workItem from="1560185983018" duration="3284000" />
       <workItem from="1579888007892" duration="7875000" />
-      <workItem from="1579974371126" duration="3975000" />
+      <workItem from="1579974371126" duration="15103000" />
     </task>
     <task id="LOCAL-00001" summary="Update website icon and title">
       <created>1558815721021</created>
@@ -369,11 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579978153888</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update page title and description on all pages">
+      <created>1579978416295</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579978416295</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57012000" />
+    <option name="totallyTimeSpent" value="68140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,11 +414,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16325182" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16325182" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="npm" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22804533" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22804533" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -428,7 +453,8 @@
     <MESSAGE value="Change title font on new pages&#10;Add header to new pages" />
     <MESSAGE value="Fix pages defect" />
     <MESSAGE value="Update page title and description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update page title and description" />
+    <MESSAGE value="Update page title and description on all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update page title and description on all pages" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -489,9 +515,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/skor-shortbread.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/bg-masthead.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -523,13 +546,6 @@
     <entry file="file://$PROJECT_DIR$/img/cakes/IMG_2297.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/nav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -540,7 +556,7 @@
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
-          <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -557,7 +573,7 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3417">
-          <caret line="201" column="22" lean-forward="true" selection-start-line="201" selection-start-column="22" selection-end-line="201" selection-end-column="22" />
+          <caret line="201" column="22" selection-start-line="201" selection-start-column="22" selection-end-line="201" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -568,28 +584,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/cakes.html">
+    <entry file="file://$PROJECT_DIR$/img/breakfast/bananabread.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/breakfast/scones.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cookies/skor-shortbread.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/cookies.html">
+    <entry file="file://$PROJECT_DIR$/img/portfolio-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/platters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/breakfast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="56" selection-start-line="101" selection-start-column="56" selection-end-line="101" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="299" column="12" selection-start-line="299" selection-start-column="12" selection-end-line="299" selection-end-column="12" />
+        <state relative-caret-position="-3468">
+          <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/cookies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="109" column="51" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/cakes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+          <folding>
+            <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 ## About
 
-Simple one page website for @HappyToBake
+Simple one page website for @HappytoBake
 
 ## Copyright and License
 
