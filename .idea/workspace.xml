@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_0723.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_0822.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_1177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_1300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_2274.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/IMG_2549.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/bananabread.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/quiche.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/breakfast/scones.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_0704.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_0823.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_1858.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2668.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2689.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2706.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cakes/IMG_2726.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0794.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0866.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0902.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_0994.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1431.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1510.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1911.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_1992.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cookies/IMG_2159.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/71A69E47-052F-4E59-9EF3-069AA269DE27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_1543.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_1549.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2168.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2229.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2386.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2447.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2475.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/platters/IMG_2633.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/breakfast.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/platters.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cakes/IMG_2405.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cookies.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cookies/IMG_2406.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/breakfast/IMG_2406.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/muffins.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/breakfast/muffins.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/platter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/platters/platter.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skor-shortbread.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cakes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/cookies.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cookies.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/cakes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+            <state relative-caret-position="204">
+              <caret line="86" column="91" lean-forward="true" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
               <folding>
                 <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -287,7 +237,7 @@
       <workItem from="1559243117624" duration="64000" />
       <workItem from="1560185983018" duration="3284000" />
       <workItem from="1579888007892" duration="7875000" />
-      <workItem from="1579974371126" duration="15103000" />
+      <workItem from="1579974371126" duration="15174000" />
     </task>
     <task id="LOCAL-00001" summary="Update website icon and title">
       <created>1558815721021</created>
@@ -394,11 +344,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579978416295</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add new pages and new pictures">
+      <created>1580003636505</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580003636505</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68140000" />
+    <option name="totallyTimeSpent" value="68211000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,11 +371,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16325182" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16325182" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="npm" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22804533" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22804533" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -454,7 +411,8 @@
     <MESSAGE value="Fix pages defect" />
     <MESSAGE value="Update page title and description" />
     <MESSAGE value="Update page title and description on all pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update page title and description on all pages" />
+    <MESSAGE value="Add new pages and new pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new pages and new pictures" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -639,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/cakes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        <state relative-caret-position="204">
+          <caret line="86" column="91" lean-forward="true" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
           <folding>
             <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
           </folding>
