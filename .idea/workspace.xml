@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="224" selection-start-line="224" selection-end-line="224" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3468">
-              <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+            <state relative-caret-position="365">
+              <caret line="248" column="14" lean-forward="true" selection-start-line="248" selection-start-column="14" selection-end-line="248" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -36,17 +47,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/cookies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
+            <state relative-caret-position="464">
               <caret line="109" column="51" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/cakes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="86" column="91" lean-forward="true" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
+            <state relative-caret-position="1428">
+              <caret line="86" column="91" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
               <folding>
                 <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -89,9 +100,11 @@
       <find>My name is El and I am the banker</find>
       <find>showMenuButtonAndScrollToTopButton</find>
       <find>tobake</find>
-      <find>stre</find>
       <find>modal-body-text</find>
       <find>inquiry</find>
+      <find>stre</find>
+      <find>wha</find>
+      <find>bg-orange</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,7 +123,6 @@
         <option value="$PROJECT_DIR$/css/nav.css" />
         <option value="$PROJECT_DIR$/css/collage.css" />
         <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/pages.css" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -119,14 +131,15 @@
         <option value="$PROJECT_DIR$/pages/cookies.html" />
         <option value="$PROJECT_DIR$/pages/cakes.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1937" />
-    <option name="height" value="1057" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -160,12 +173,8 @@
             <path>
               <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
               <item name="happytobake" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happytobake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happytobake" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="covid-tile-thumbnails" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,14 +198,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\happytobake\pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\happytobake\img\breakfast" />
       <recent name="D:\GitHub\happytobake\img\cookies" />
       <recent name="D:\GitHub\happytobake\img\platters" />
       <recent name="D:\GitHub\happytobake.github.io\img\icon" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\happytobake\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,7 +246,13 @@
       <workItem from="1559243117624" duration="64000" />
       <workItem from="1560185983018" duration="3284000" />
       <workItem from="1579888007892" duration="7875000" />
-      <workItem from="1579974371126" duration="15174000" />
+      <workItem from="1579974371126" duration="15431000" />
+      <workItem from="1581021371808" duration="5000" />
+      <workItem from="1581097706119" duration="603000" />
+      <workItem from="1582831564107" duration="175000" />
+      <workItem from="1582893749584" duration="167000" />
+      <workItem from="1585922626229" duration="7890000" />
+      <workItem from="1586180373630" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="Update website icon and title">
       <created>1558815721021</created>
@@ -351,11 +366,32 @@
       <option name="project" value="LOCAL" />
       <updated>1580003636505</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add one more scone picture">
+      <created>1580003804302</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580003804302</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fix home page title">
+      <created>1580003889249</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580003889249</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add Ben's testimonial">
+      <created>1582831657610</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1582831657610</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68211000" />
+    <option name="totallyTimeSpent" value="80752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,15 +403,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16325182" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16227607" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="npm" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22804533" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.17334779" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -412,7 +448,10 @@
     <MESSAGE value="Update page title and description" />
     <MESSAGE value="Update page title and description on all pages" />
     <MESSAGE value="Add new pages and new pictures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new pages and new pictures" />
+    <MESSAGE value="Add one more scone picture" />
+    <MESSAGE value="Fix home page title" />
+    <MESSAGE value="Add Ben's testimonial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Ben's testimonial" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -518,20 +557,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
     <entry file="file://$PROJECT_DIR$/css/collage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3417">
-          <caret line="201" column="22" selection-start-line="201" selection-start-column="22" selection-end-line="201" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -548,16 +578,8 @@
     <entry file="file://$PROJECT_DIR$/img/breakfast/scones.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/cookies/skor-shortbread.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cookies/skor-shortbread.jpg" />
+    <entry file="file://$PROJECT_DIR$/js/script.js" />
     <entry file="file://$PROJECT_DIR$/img/portfolio-3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -567,10 +589,13 @@
     <entry file="file://$PROJECT_DIR$/img/portfolio-1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/platters.html">
+    <entry file="file://$PROJECT_DIR$/pages/cakes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="1428">
+          <caret line="86" column="91" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
+          <folding>
+            <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -581,27 +606,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/pages/platters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3468">
-          <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/cookies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
+        <state relative-caret-position="464">
           <caret line="109" column="51" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/cakes.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="86" column="91" lean-forward="true" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
-          <folding>
-            <element signature="n#a#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="365">
+          <caret line="248" column="14" lean-forward="true" selection-start-line="248" selection-start-column="14" selection-end-line="248" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
         </state>
       </provider>
     </entry>

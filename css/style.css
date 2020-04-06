@@ -178,6 +178,10 @@ footer a {
     background-color: #feb74e;
 }
 
+.bg-pink {
+    background-color: #f59cb0;
+}
+
 .bg-black {
     background-color: black;
 }
@@ -209,4 +213,45 @@ footer a {
 .font-cursive {
     font-family: 'Clicker Script', cursive;
     font-weight: 400;
+}
+
+.covid-tile {
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.covid-tile .covid-tile-thumbnail {
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.covid-tile table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 900px) {
+    .covid-tile table {
+        width: 60%;
+    }
+}
+
+.covid-tile td {
+    text-align: center;
+}
+
+.covid-tile td:first-child {
+    width: 70%;
+}
+
+#covid-19 .additional-notes-title {
+    margin-top: 30px;
+}
+
+#covid-19 .additional-notes-bullets {
+    margin: 0;
 }
