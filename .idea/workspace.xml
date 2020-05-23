@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="578eba2e-f377-4c66-92ad-6bd47a2a1c8d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,20 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="224" selection-start-line="224" selection-end-line="224" />
+            <state relative-caret-position="3876">
+              <caret line="228" column="1" selection-start-line="228" selection-start-column="1" selection-end-line="228" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="248" column="14" lean-forward="true" selection-start-line="248" selection-start-column="14" selection-end-line="248" selection-end-column="14" />
+            <state relative-caret-position="437">
+              <caret line="414" column="14" selection-start-line="414" selection-start-column="14" selection-end-line="414" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -47,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/cookies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
+            <state relative-caret-position="1853">
               <caret line="109" column="51" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
             </state>
           </provider>
@@ -130,23 +138,22 @@
         <option value="$PROJECT_DIR$/pages/platters.html" />
         <option value="$PROJECT_DIR$/pages/cookies.html" />
         <option value="$PROJECT_DIR$/pages/cakes.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1937" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,6 +187,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,7 +260,8 @@
       <workItem from="1582831564107" duration="175000" />
       <workItem from="1582893749584" duration="167000" />
       <workItem from="1585922626229" duration="7890000" />
-      <workItem from="1586180373630" duration="3444000" />
+      <workItem from="1586180373630" duration="3933000" />
+      <workItem from="1590234096942" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="Update website icon and title">
       <created>1558815721021</created>
@@ -387,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582831657610</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add a COVID-19 response section&#10;Comment out all pictures in the new section">
+      <created>1586184659074</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1586184659075</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80752000" />
+    <option name="totallyTimeSpent" value="81492000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,15 +419,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16227607" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16192994" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="npm" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.17334779" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.17280453" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -432,7 +448,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Update website icon and title" />
     <MESSAGE value="Update company name" />
     <MESSAGE value="Update company name and about me blurb" />
@@ -451,7 +469,8 @@
     <MESSAGE value="Add one more scone picture" />
     <MESSAGE value="Fix home page title" />
     <MESSAGE value="Add Ben's testimonial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Ben's testimonial" />
+    <MESSAGE value="Add a COVID-19 response section&#10;Comment out all pictures in the new section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a COVID-19 response section&#10;Comment out all pictures in the new section" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -521,13 +540,6 @@
     <entry file="file://$PROJECT_DIR$/img/icon/HappyToBake.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -589,6 +601,27 @@
     <entry file="file://$PROJECT_DIR$/img/portfolio-1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="228" column="1" selection-start-line="228" selection-start-column="1" selection-end-line="228" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/platters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/cookies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="51" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/cakes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
@@ -606,31 +639,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/platters.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/cookies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="109" column="51" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="248" column="14" lean-forward="true" selection-start-line="248" selection-start-column="14" selection-end-line="248" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        <state relative-caret-position="437">
+          <caret line="414" column="14" selection-start-line="414" selection-start-column="14" selection-end-line="414" selection-end-column="14" />
         </state>
       </provider>
     </entry>
