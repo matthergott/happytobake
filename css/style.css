@@ -226,6 +226,7 @@ footer a {
 .covid-tile .covid-tile-thumbnail {
     border-radius: 10px;
     margin-top: 10px;
+    width: 100%;
 }
 
 .covid-tile table {
